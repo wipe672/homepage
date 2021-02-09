@@ -9,4 +9,3 @@
 
 目前咱使用的是单页版，单页版是新制作的~
 **使用本源码时请删除谷歌统计代码。**
-<a href="https://www.openode.io/">Cloud hosted on opeNode.io</a>
